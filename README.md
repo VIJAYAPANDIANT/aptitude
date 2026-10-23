@@ -2,15 +2,15 @@
 
 [![LaTeX Renderable](https://img.shields.io/badge/LaTeX-Renderable-brightgreen.svg)](#)
 [![Solved Questions](https://img.shields.io/badge/Solved%20Questions-340-blue.svg)](#)
+[![Master Formula Sheet](https://img.shields.io/badge/Master%20Formula%20Sheet-21%20Pages%20PDF-brightgreen.svg)](./Aptitude_Master_Formula_and_Tricks_Sheet.pdf)
 [![Classroom Notes](https://img.shields.io/badge/Classroom%20Notes-21%20PDFs-red.svg)](#-classroom-notes-handwritten-lecture-series)
 [![Modules](https://img.shields.io/badge/Modules-5%20Core%20Areas-orange.svg)](#)
-[![Topics](https://img.shields.io/badge/Topics-34%20Guides%20%2B%2021%20PDFs-purple.svg)](#)
-[![100 Aptitude Tricks](https://img.shields.io/badge/100%20Aptitude%20Tricks-PDF-red.svg)](https://drive.google.com/file/d/1a3dBzdESXAnWEauLoUoDEOgVcQGDjKzt/view?usp=sharing)
+[![Topics](https://img.shields.io/badge/Topics-34%20Guides%20%2B%2022%20PDFs-purple.svg)](#)
 
 A comprehensive, production-grade study resource and practice suite covering **Quantitative Aptitude**, **Logical Reasoning**, **Data Interpretation**, **Verbal Ability**, and **Classroom Notes**. This repository is designed as a self-paced learning portal containing core concepts, math/grammar formulas, practice problems, and step-by-step solutions for competitive exams (CAT, GRE, GMAT, placements, banking, and civil services).
 
 > [!TIP]
-> 🧠 **Looking for speed-math shortcuts?** Access the **[100 Aptitude Tricks & Shortcuts PDF](https://drive.google.com/file/d/1a3dBzdESXAnWEauLoUoDEOgVcQGDjKzt/view?usp=sharing)** directly on Google Drive to accelerate your preparation with quick formulas and high-yield methods!
+> 🧠 **Looking for speed-math shortcuts & company exam traps?** Access the **[Aptitude Master Formula & Tricks Sheet (PDF)](./Aptitude_Master_Formula_and_Tricks_Sheet.pdf)** directly in this repository — a 21-page high-yield cheat sheet covering Quantitative Aptitude, Logical Reasoning, Company Aptitude Patterns (TCS NQT, Infosys, Wipro, Deloitte, Accenture), Advanced Shortcuts, and Exam Traps! Alternatively, access the online **[100 Aptitude Tricks PDF](https://drive.google.com/file/d/1a3dBzdESXAnWEauLoUoDEOgVcQGDjKzt/view?usp=sharing)**.
 
 ---
 
@@ -18,6 +18,7 @@ A comprehensive, production-grade study resource and practice suite covering **Q
 
 - **5 Core Modules**: Quantitative Aptitude, Logical Reasoning, Data Interpretation, Verbal Ability, and Classroom Coaching Notes.
 - **34 Markdown Study Guides**: Discrete chapters targeting specific concepts, formulas, and rules.
+- **Master Formula & Tricks Sheet**: 21-page comprehensive PDF guide covering speed shortcuts, company-specific patterns, and quick-solver tricks.
 - **21 Original Lecture PDFs**: 107 scanned pages of authentic classroom lecture notes covering speed-math tricks, elimination shortcuts, and exam pattern analysis.
 - **340 Solved Problems**: Exactly 10 practice problems per markdown topic with complete step-by-step solutions.
 - **LaTeX Math Engine**: Clean, readable mathematical equations formatted in native LaTeX.

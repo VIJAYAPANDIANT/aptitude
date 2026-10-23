@@ -2,11 +2,12 @@
 
 [![LaTeX Renderable](https://img.shields.io/badge/LaTeX-Renderable-brightgreen.svg)](#)
 [![Solved Questions](https://img.shields.io/badge/Solved%20Questions-340-blue.svg)](#)
-[![Modules](https://img.shields.io/badge/Modules-4%20Core%20Areas-orange.svg)](#)
-[![Topics](https://img.shields.io/badge/Topics-34%20Chapters-purple.svg)](#)
+[![Classroom Notes](https://img.shields.io/badge/Classroom%20Notes-21%20PDFs-red.svg)](#-classroom-notes-handwritten-lecture-series)
+[![Modules](https://img.shields.io/badge/Modules-5%20Core%20Areas-orange.svg)](#)
+[![Topics](https://img.shields.io/badge/Topics-34%20Guides%20%2B%2021%20PDFs-purple.svg)](#)
 [![100 Aptitude Tricks](https://img.shields.io/badge/100%20Aptitude%20Tricks-PDF-red.svg)](https://drive.google.com/file/d/1a3dBzdESXAnWEauLoUoDEOgVcQGDjKzt/view?usp=sharing)
 
-A comprehensive, production-grade study resource and practice suite covering **Quantitative Aptitude**, **Logical Reasoning**, **Data Interpretation**, and **Verbal Ability**. This repository is designed as a self-paced learning portal containing core concepts, math/grammar formulas, practice problems, and step-by-step solutions for competitive exams (CAT, GRE, GMAT, placements, banking, and civil services).
+A comprehensive, production-grade study resource and practice suite covering **Quantitative Aptitude**, **Logical Reasoning**, **Data Interpretation**, **Verbal Ability**, and **Classroom Notes**. This repository is designed as a self-paced learning portal containing core concepts, math/grammar formulas, practice problems, and step-by-step solutions for competitive exams (CAT, GRE, GMAT, placements, banking, and civil services).
 
 > [!TIP]
 > 🧠 **Looking for speed-math shortcuts?** Access the **[100 Aptitude Tricks & Shortcuts PDF](https://drive.google.com/file/d/1a3dBzdESXAnWEauLoUoDEOgVcQGDjKzt/view?usp=sharing)** directly on Google Drive to accelerate your preparation with quick formulas and high-yield methods!
@@ -15,17 +16,17 @@ A comprehensive, production-grade study resource and practice suite covering **Q
 
 ## 📊 Repository Statistics & Highlights
 
-- **4 Core Modules**: Fully structured sections covering the entire aptitude syllabus.
-- **34 Comprehensive Topics**: Discrete chapters targeting specific concepts and rules.
-- **340 Solved Problems**: Exactly 10 practice problems per topic, carefully graded by difficulty.
-- **340 Step-by-Step Solutions**: Walkthroughs of the solution logic and shortcut formulas for every single question.
+- **5 Core Modules**: Quantitative Aptitude, Logical Reasoning, Data Interpretation, Verbal Ability, and Classroom Coaching Notes.
+- **34 Markdown Study Guides**: Discrete chapters targeting specific concepts, formulas, and rules.
+- **21 Original Lecture PDFs**: 107 scanned pages of authentic classroom lecture notes covering speed-math tricks, elimination shortcuts, and exam pattern analysis.
+- **340 Solved Problems**: Exactly 10 practice problems per markdown topic with complete step-by-step solutions.
 - **LaTeX Math Engine**: Clean, readable mathematical equations formatted in native LaTeX.
 
 ---
 
 ## 🗺️ Learning Path & Modules
 
-The study materials are organized into four core subjects. Each topic contains structured study notes, cheat sheets, and practice questions.
+The study materials are organized into five core subjects. Each topic contains structured study notes, cheat sheets, and practice questions.
 
 | Module | Topics Included | Quick Links |
 | :--- | :--- | :--- |
@@ -33,6 +34,7 @@ The study materials are organized into four core subjects. Each topic contains s
 | **Logical Reasoning** | Analytical & Non-Verbal Reasoning, Sequences, Puzzles | 🧠 [Go to Reasoning](#-logical-reasoning) |
 | **Data Interpretation** | Graphical Analysis, Tables, and Data Analysis | 📊 [Go to DI](#-data-interpretation) |
 | **Verbal Ability** | English Grammar, Reading Comprehension, Vocabulary | ✍️ [Go to Verbal](#%EF%B8%8F-verbal-ability) |
+| **Classroom Notes** | 21 Scanned Coaching Lecture PDFs, Shortcuts & Speed Tricks | 🎓 [Go to Classroom Notes](#-classroom-notes-handwritten-lecture-series) |
 
 ---
 
@@ -103,6 +105,36 @@ This module covers English language proficiency, grammar correctness, comprehens
 | **Reading Comprehension** | Passage reading, central theme identification, tone, and inference questions. | 10 | [View Note](./Reading_Comprehension.md) |
 | **Idioms & Phrases** | Meanings and usage of common figurative expressions. | 10 | [View Note](./Idioms_Phrases.md) |
 | **Vocabulary** | Synonym, antonym, and contextual word meanings. | 10 | [View Note](./Vocabulary.md) |
+
+---
+
+## 🎓 Classroom Notes (Handwritten Lecture Series)
+
+Authentic scanned lecture notes directly from competitive reasoning & aptitude coaching sessions, featuring shortcut rules, speed-tricks, elimination methods, and worked exam examples across 21 PDF chapters (107 pages).
+
+| Chapter | Topic / Subject | Pages | File Link |
+| :---: | :--- | :---: | :--- |
+| **01** | **Number & Alphabetical Quibble** | 7 | [View PDF](./Classroom_Notes/Chap%2001%20NUMBER.pdf) |
+| **02** | **Time Sequence Test** | 7 | [View PDF](./Classroom_Notes/Chap%2002%20Time%20Sequence.pdf) |
+| **03** | **Direction and Distance & Number Sequences** | 12 | [View PDF](./Classroom_Notes/Chap%2003%20Direction%20and%20Distance.pdf) |
+| **04** | **Ranking & Order Test** | 4 | [View PDF](./Classroom_Notes/Chap%2004%20Ranking.pdf) |
+| **05** | **Comparisons & Inequalities** | 2 | [View PDF](./Classroom_Notes/CHap%2005%20COmparison.pdf) |
+| **06** | **Coding and Decoding** | 3 | [View PDF](./Classroom_Notes/Chap06%20Coding%20and%20decoding.pdf) |
+| **07** | **Arithmetic Reasoning** | 3 | [View PDF](./Classroom_Notes/chap%2007%20Arithmetic%20reasoning.pdf) |
+| **08** | **Number Series Patterns** | 3 | [View PDF](./Classroom_Notes/Chap%2008%20NUmber%20series.pdf) |
+| **09** | **Mathematical Operations & Symbols** | 3 | [View PDF](./Classroom_Notes/Chap%2009%20Maths%20Operation.pdf) |
+| **10** | **Logical Reasoning Principles** | 1 | [View PDF](./Classroom_Notes/Chap%2010%20Logical%20Reasoning.pdf) |
+| **11** | **Analytical Reasoning** | 3 | [View PDF](./Classroom_Notes/Chap%2011%20Analytical%20Reasoning.pdf) |
+| **12** | **Quantitative Aptitude Basics** | 4 | [View PDF](./Classroom_Notes/Chap%2012%20Quantitaive%20Aptitude.pdf) |
+| **13** | **Percentage Calculations & Shortcuts** | 5 | [View PDF](./Classroom_Notes/Chap%2013%20Percentage.pdf) |
+| **14** | **Blood Relations & Family Tree Deduction** | 6 | [View PDF](./Classroom_Notes/Chap%2014%20Blood%20relation.pdf) |
+| **15** | **Cubes and Dices Visual Reasoning** | 11 | [View PDF](./Classroom_Notes/Chap15%20Cubes%20abd%20dices.pdf) |
+| **17** | **Profit, Loss & Discount Formulas** | 6 | [View PDF](./Classroom_Notes/Chap%2017%20Profits%20and%20loss.pdf) |
+| **18** | **Data Interpretation (Graphs & Charts)** | 4 | [View PDF](./Classroom_Notes/CHap%2018%20Data%20interpretation.pdf) |
+| **19** | **Partnership Business Arithmetic** | 3 | [View PDF](./Classroom_Notes/Chap%2019%20Partenership.pdf) |
+| **20** | **Averages & Mixtures** | 5 | [View PDF](./Classroom_Notes/Chap20%20Averages.pdf) |
+| **21** | **Time and Work Efficiency** | 9 | [View PDF](./Classroom_Notes/Chap21%20Time%20and%20work.pdf) |
+| **22** | **Time, Speed and Distance (Trains, Boats)** | 6 | [View PDF](./Classroom_Notes/Chap22%20Times%20speed%20and%20distance.pdf) |
 
 ---
 
